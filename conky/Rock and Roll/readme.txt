@@ -1,4 +1,4 @@
-# download link>https://www.deviantart.com/iarayed/art/Conky-Rock-and-Roll-Skin-864143120
+#download link>https://www.deviantart.com/iarayed/art/Conky-Rock-and-Roll-Skin-864143120
 Open terminal from your system application launcher. 
 Then run command to add the PPA:
 
@@ -18,6 +18,6 @@ Select those skins :
 3.~/.conky/Rock and Roll/Rock 2/.conkyrc
 
 
-# Install the Anurati.otf font..
-# Set the wallpaper
+#Install the Anurati.otf font..
+#Set the wallpaper
 done..
