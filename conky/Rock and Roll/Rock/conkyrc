@@ -1,0 +1,47 @@
+background yes
+update_interval 1
+
+cpu_avg_samples 2
+net_avg_samples 2
+temperature_unit celsius
+
+double_buffer yes
+no_buffers yes
+text_buffer_size 2048
+gap_x 120
+gap_y 200
+minimum_size 550 550
+maximum_width 1000
+
+own_window yes
+own_window_type dock
+own_window_transparent yes
+own_window_hints undecorated,below,sticky,skip_taskbar,skip_pager
+own_window_argb_visual yes
+own_window_argb_value 0
+
+draw_shades no
+draw_outline no
+draw_borders no
+draw_graph_borders no
+default_shade_color 112422
+default_color 656667
+default_outline_color 828282
+default_bar_size 240 2
+alignment bottom_left
+
+override_utf8_locale yes
+use_xft yes
+xftfont Feena Casual:size=10
+xftalpha 1
+uppercase yes
+
+lua_load = '~/.config/conky/Auva/scripts/lua/rings-v1.2.1.lua'
+lua_draw_hook_pre = 'ring_stats'
+
+TEXT
+${voffset 40}${color ffffff}${font Anurati:size=65}${time %A}
+${voffset -50}${color 00ffff}${font Aquire:size=25}${time %B %d} ${color ffffff}${font Aquire:size=25}${time %Y}
+${color ffffff}${font Aquire:pixelsize=30}${time %I} ${font space age:pixelsize=30}: ${color ffffff}${font Aquire:pixelsize=30}${time %M} ${font space age:pixelsize=30}: ${color ffffff}${font Aquire:pixelsize=30}${time %S} ${color 00ffff}${font Aquire:pixelsize=30} ${time %p}  ${font}
+${offset 50}${voffset 29}${color 00ffff}${font Roboto:size=8}CPU:${goto 165}Memory:${goto 275}Home
+${offset 50}${voffset -2}${font Roboto:bold:size=9}${cpu cpu0}%${goto 165}${memperc} %${goto 275}$fs_used_perc %

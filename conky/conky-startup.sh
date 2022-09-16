@@ -1,7 +1,7 @@
 #!/bin/sh
 
 if [ "$DESKTOP_SESSION" = "ubuntu" ]; then 
-   sleep 0s
+   sleep 20s
    killall conky
    cd "$HOME/.config/conky/Rock and Roll/Rock 1"
    conky -c "$HOME/.config/conky/Rock and Roll/Rock 1/.conkyrc" &
