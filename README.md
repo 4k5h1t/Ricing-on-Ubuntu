@@ -11,4 +11,9 @@ Extensions are an importsnt part of any Ubuntu Ricing project. The extensions I 
 - Compiz alike magic lamp effect
 - Compiz windows effect
 - Control Blur Effect On Lock Screen
-- 
+- Dash To Dock
+- Desktop Cube
+- Gesture Improvements
+- Hide Top Bar
+- Just Perfection
+- Lock Screen Background 
