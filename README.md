@@ -17,4 +17,4 @@ Extensions are an important part of any Ubuntu Ricing project. The extensions I 
 - Hide Top Bar
 - Just Perfection
 - Lock Screen Background 
-- Net Speed Simplified
+- Net speed Simplified
