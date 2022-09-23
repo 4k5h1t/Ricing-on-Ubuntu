@@ -20,4 +20,6 @@ Extensions are an important part of any Ubuntu Ricing project. The extensions I 
 - Net speed Simplified
 - Replace Activities Text
 - System Monitor
-- 
+- Tweaks & Extensions in System Menu
+- User Themes
+
