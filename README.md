@@ -18,3 +18,6 @@ Extensions are an important part of any Ubuntu Ricing project. The extensions I 
 - Just Perfection
 - Lock Screen Background 
 - Net speed Simplified
+- Replace Activities Text
+- System Monitor
+- 
