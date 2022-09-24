@@ -27,3 +27,4 @@ Extensions are an important part of any Ubuntu Ricing project. The extensions I 
 Using the git repos mutter-rounded and mutter-rounded-settings by yilozt to blur nautilus, vscode and the terminal. Also to round out the window corners
 
 ## Conky Setting
+Conky is a customizable skin similar to Rainmeter for Linux distrobutions.
