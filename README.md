@@ -28,3 +28,4 @@ Using the git repos mutter-rounded and mutter-rounded-settings by yilozt to blur
 
 ## Conky Setting
 Conky is a customizable skin similar to Rainmeter for Linux distrobutions.
+Lua needs to be fixed
