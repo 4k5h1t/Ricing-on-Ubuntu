@@ -39,4 +39,9 @@
 
 ## Current To Do List
 - Check if Live Wallpaper possible
-- 
+- Try to get system name as part of the prompt on terminal + cursor icon on terminal
+- Explore Zorin Connect
+- Gestures
+- Workspaces
+- Check Games compatibility
+- Check GPU Compatibiltiy
