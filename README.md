@@ -15,6 +15,7 @@
 - Conky
 - Conky Manager 2
 - Gnome Tweaks
+- GRUB Customizer
 
 ## Step 3 : Install some Extensions (From Extension Mananger)
 - Just Perfection
@@ -36,8 +37,6 @@
 - Install and configure powerlevel10k
 - Use the Dracula terminal theme
 - Enable Syntax Highlighting and Suggestions
-
-## Step 7 : Grub Customizer
 
 ## Current To Do List
 - Enable Blur
