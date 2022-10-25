@@ -45,3 +45,4 @@
 - Workspaces
 - Check Games compatibility
 - Check GPU Compatibiltiy
+- Keyboard Shortcuts
