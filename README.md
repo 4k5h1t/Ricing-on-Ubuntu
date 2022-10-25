@@ -36,3 +36,7 @@
 - Install and configure powerlevel10k
 - Use the Dracula terminal theme
 - Enable Syntax Highlighting and Suggestions
+
+## Current To Do List
+- Check if Live Wallpaper possible
+- 
