@@ -30,7 +30,9 @@
 - <b>Cursor</b>        - BreezeX-Black
 
 ## Step 6 : Customizing Terminal
+- Follow (https://medium.com/@satriajanaka09/setup-zsh-oh-my-zsh-powerlevel10k-on-ubuntu-20-04-c4a4052508fd)
 - Setup zsh
 - Install oh-my-zsh
 - Install and configure powerlevel10k
 - Use the Dracula terminal theme
+- Enable Syntax Highlighting and Suggestions
