@@ -22,3 +22,9 @@
 ## Step 4 : Setup Firefox
 - Import bookmarks and settings
 - Use Mue to customize Firefox's new tab page
+
+## Step 5 : Theming Options
+- <b>Applications</b>  - Orchis-Dark
+- Icons         - tela-circle-blue-dark
+- Shell         - Midnight-Blue
+- Cursor        - BreezeX-Black
