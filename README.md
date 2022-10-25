@@ -28,3 +28,9 @@
 - <b>Icons</b>         - tela-circle-blue-dark
 - <b>Shell</b>         - Midnight-Blue
 - <b>Cursor</b>        - BreezeX-Black
+
+## Step 6 : Customizing Terminal
+- Setup zsh
+- Install oh-my-zsh
+- Install and configure powerlevel10k
+- Use the Dracula terminal theme
