@@ -38,11 +38,13 @@
 - Enable Syntax Highlighting and Suggestions
 
 ## Current To Do List
-- Check if Live Wallpaper possible
-- Try to get system name as part of the prompt on terminal + cursor icon on terminal
-- Explore Zorin Connect
+- Enable Blur
+- Keyboard Shortcuts
 - Gestures
-- Workspaces
+- Desktop Cube Alternative
+- Try to get system name as part of the prompt on terminal + cursor icon on terminal
+- Check if Live Wallpaper possible
+- Explore Zorin Connect
 - Check Games compatibility
 - Check GPU Compatibiltiy
-- Keyboard Shortcuts
+
