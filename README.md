@@ -37,6 +37,8 @@
 - Use the Dracula terminal theme
 - Enable Syntax Highlighting and Suggestions
 
+## Step 7 : Grub Customizer
+
 ## Current To Do List
 - Enable Blur
 - Keyboard Shortcuts
@@ -47,4 +49,8 @@
 - Explore Zorin Connect
 - Check Games compatibility
 - Check GPU Compatibiltiy
+- Spotify Whatsapp Teams
+- Timeshift + Partition Management
+- File Sharing
+- Onedrive Backup
 
