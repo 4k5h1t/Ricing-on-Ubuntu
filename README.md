@@ -16,9 +16,9 @@
 - Conky Manager 2
 - Gnome Tweaks
 
-## Step 4 : Install some Extensions (From Extension Mananger)
+## Step 3 : Install some Extensions (From Extension Mananger)
 - Just Perfection
 
-## Step 5 : Setup Firefox
+## Step 4 : Setup Firefox
 - Import bookmarks and settings
 - Use Mue to customize Firefox's new tab page
