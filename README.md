@@ -19,6 +19,9 @@
 
 ## Step 3 : Install some Extensions (From Extension Mananger)
 - Just Perfection
+- Vitals
+- Clipboard Indicator
+- Animation Tweaks
 
 ## Step 4 : Setup Firefox
 - Import bookmarks and settings
