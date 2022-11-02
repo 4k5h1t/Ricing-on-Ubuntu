@@ -42,6 +42,8 @@
 - Enable Syntax Highlighting and Suggestions
 - Get system name as part of the prompt on terminal + cursor icon on terminal (Customize .p10k.zsh)
 
+## Step 7 : Setup and Explore Zorin Connect
+
 ## Current To Do List
 - Enable Blur
 - Keyboard Shortcuts
