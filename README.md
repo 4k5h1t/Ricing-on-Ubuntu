@@ -48,7 +48,6 @@
 - Gestures
 - Desktop Cube Alternative
 - Check if Live Wallpaper possible
-- Explore Zorin Connect
 - Check Games compatibility
 - Check GPU Compatibiltiy
 - Spotify Whatsapp Teams
