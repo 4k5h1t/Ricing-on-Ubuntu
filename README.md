@@ -44,12 +44,13 @@
 
 ## Step 7 : Setup and Explore Zorin Connect
 
+## Step 8 : Set up Live Wallpaper (Use Komorebi)
+
 ## Current To Do List
 - Enable Blur
 - Keyboard Shortcuts
 - Gestures
 - Desktop Cube Alternative
-- Check if Live Wallpaper possible
 - Check Games compatibility
 - Check GPU Compatibiltiy
 - Spotify Whatsapp Teams
