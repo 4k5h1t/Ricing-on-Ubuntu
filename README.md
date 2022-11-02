@@ -40,13 +40,13 @@
 - Install and configure powerlevel10k
 - Use the Dracula terminal theme
 - Enable Syntax Highlighting and Suggestions
+- Get system name as part of the prompt on terminal + cursor icon on terminal (Customize .p10k.zsh)
 
 ## Current To Do List
 - Enable Blur
 - Keyboard Shortcuts
 - Gestures
 - Desktop Cube Alternative
-- Try to get system name as part of the prompt on terminal + cursor icon on terminal
 - Check if Live Wallpaper possible
 - Explore Zorin Connect
 - Check Games compatibility
