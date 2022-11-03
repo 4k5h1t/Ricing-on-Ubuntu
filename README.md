@@ -47,8 +47,7 @@
 ## Step 8 : Set up Live Wallpaper (Use Komorebi)
 
 ## Current To Do List
-- Enable Blur
-- Keyboard Shortcuts
+- Tiling Manager + Blur + Keyboard Shortcuts
 - Gestures
 - Desktop Cube Alternative
 - Check Games compatibility
