@@ -46,6 +46,9 @@
 
 ## Step 8 : Set up Live Wallpaper (Use Komorebi)
 
+## Step 9 : Set Keyboard Shortcuts and Tiling
+- Use the gtile Extension
+
 ## Current To Do List
 - Tiling Manager + Blur + Keyboard Shortcuts
 - Gestures
