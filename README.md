@@ -50,7 +50,7 @@
 - Use the gtile Extension
 
 ## Current To Do List
-- Tiling Manager + Blur + Keyboard Shortcuts
+- Blur
 - Gestures
 - Desktop Cube Alternative
 - Check Games compatibility
