@@ -49,13 +49,14 @@
 ## Step 9 : Set Keyboard Shortcuts and Tiling
 - Use the gtile Extension
 
+## Step 10 - Get Franz to control Comms and frequent apps
+
 ## Current To Do List
 - Blur
 - Gestures
 - Desktop Cube Alternative
 - Check Games compatibility
 - Check GPU Compatibiltiy
-- Spotify Whatsapp Teams
 - Timeshift + Partition Management
 - File Sharing
 - Onedrive Backup
