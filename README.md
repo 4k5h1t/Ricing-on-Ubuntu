@@ -1,4 +1,4 @@
-# Customizing Zorin16 OS
+# Customizing Zorin16 os 
 
 ## Step 0 : Setup default Customization Options
 - Choose the layouts and themes you want from Zorin's startup Customization Options (Zorin Appearance)
@@ -59,5 +59,5 @@
 - Check GPU Compatibiltiy
 - Timeshift + Partition Management
 - File Sharing
-- Onedrive Backup
+- Onedrive Backup 
 
