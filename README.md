@@ -1,4 +1,4 @@
-# Customizing Zorin16 os 
+# Customizing Zorin16 on GNOME
 
 ## Step 0 : Setup default Customization Options
 - Choose the layouts and themes you want from Zorin's startup Customization Options (Zorin Appearance)
