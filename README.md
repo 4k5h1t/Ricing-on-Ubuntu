@@ -45,6 +45,7 @@
 ## Step 7 : Setup and Explore Zorin Connect
 
 ## Step 8 : Set up Live Wallpaper (Use Komorebi)
+- https://github.com/cheesecakeufo/komorebi
 
 ## Step 9 : Set Keyboard Shortcuts and Tiling
 - Use the gtile Extension
