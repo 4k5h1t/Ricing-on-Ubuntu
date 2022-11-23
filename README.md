@@ -62,6 +62,5 @@
 - Check Games compatibility
 - Check GPU Compatibiltiy
 - Timeshift + Partition Management
-- File Sharing
 - Onedrive Backup 
 
