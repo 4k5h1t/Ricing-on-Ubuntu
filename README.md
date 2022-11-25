@@ -1,5 +1,5 @@
 # Customizing Zorin16 on GNOME
-  
+    
 ### How my desktop looks right now  
 ![Screenshot from 2022-11-09 23-53-30](https://user-images.githubusercontent.com/73750950/200910937-87f66afa-64db-4687-bccd-73a00e4f4e40.png)
   
