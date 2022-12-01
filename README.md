@@ -56,8 +56,8 @@
 ## Step 10 - Get Franz to control Comms and frequent apps
 
 ## Current To Do List
-- Blur
-- Gestures
+- Blur ()
+- Gestures (Need to find suitable plugin, touchpad not being read)
 - Desktop Cube Alternative
 - Check Games compatibility
 - Check GPU Compatibiltiy
