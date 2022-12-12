@@ -30,7 +30,7 @@
 - Import bookmarks and settings
 - Use Mue to customize Firefox's new tab page
 
-## Step 5 : Theming Options (Using Tweaks)
+## Step 5 : Theming Options (Using Tweaks) 
 - <b>Applications</b>  - Orchis-Dark
 - <b>Icons</b>         - tela-circle-blue-dark
 - <b>Shell</b>         - Midnight-Blue
